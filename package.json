@@ -1,0 +1,27 @@
+{
+  "name": "vue-dist-compress",
+  "version": "1.0.0",
+  "description": "vue项目所用压缩工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "compress": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingping-ye/vue-dist-compress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jingping-ye/vue-dist-compress/issues"
+  },
+  "homepage": "https://github.com/jingping-ye/vue-dist-compress#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "compressing": "^1.5.1"
+  }
+}
